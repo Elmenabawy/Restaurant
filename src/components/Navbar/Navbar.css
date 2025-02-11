@@ -131,6 +131,10 @@
     .app__navbar-smallscreen{
         display: flex;
     }
+
+    .app__navbar__login{
+        display: none;
+    } 
     
 }
 
